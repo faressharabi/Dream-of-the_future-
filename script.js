@@ -9,7 +9,6 @@ const products = [
   {name:"Strawberries", ar:"فراولة مجمدة", pack:"1kg", image:"strawberries.jpg"},
   {name:"Mango", ar:"مانجو مجمدة", pack:"1kg", image:"mango.jpg"}
 ];
-
 const phone = "201280133913";
 
 function wa(name="", pack="", qty="") {
